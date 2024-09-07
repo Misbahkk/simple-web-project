@@ -4,6 +4,8 @@ padding: 0;
 }
 h2{
     align-items: center;
+    border-radius: 20px;
+    margin-top: 20px;
 }
 h1{
     border: 10px solid gray;
