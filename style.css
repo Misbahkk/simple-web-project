@@ -2,6 +2,9 @@ body{
     text-align: center;
 padding: 0;
 }
+h2{
+    align-items: center;
+}
 h1{
     border: 10px solid gray;
     border-radius: 50px;
