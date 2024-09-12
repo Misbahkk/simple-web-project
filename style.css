@@ -17,3 +17,7 @@ h1{
 
 }
 /* This is main fiel */
+.box{
+    width: 30px;
+    border: 2px red;
+}
