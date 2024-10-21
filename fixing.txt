@@ -2,3 +2,9 @@ fix the bug using branch
 
 
 ad another fix
+
+third bug fix after marging
+
+now we add 4th fix that solve bug
+
+now we solve the 5th bug and thats amazing
